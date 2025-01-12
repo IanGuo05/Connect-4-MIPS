@@ -18,23 +18,6 @@ This is a simple and fun board game implemented using **MIPS assembly** on Mars.
 
 ---
 
-### How It Works:
-The program will run as follows:  
-Welcome to Connect 4. Let's begin!
-
-  0   1   2   3   4   5   6<br>
- |   |   |   |   |   |   |   |<br>
- |   |   |   |   |   |   |   |<br>
- |   |   |   |   |   |   |   |<br>
- |   |   |   |   |   |   |   |<br>
- |   |   |   |   |   |   |   |<br>
- |   |   |   |   |   |   |   |
-
-
-Player 1, it's your turn.  
-Select a column to play. Must be between 0 and 6.
-
----
 
 ### Instructions:
 1. **Game Start:**  
